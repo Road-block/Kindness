@@ -1,0 +1,9 @@
+## Interface: 11500
+## Title: Kindness
+## Notes: Return kindness of strangers when they buff, heal, cure or resurrect you
+## IconTexture: Interface\ICONS\INV_ThanksGiving_SweetPotato
+## Version: 1.0
+## Author: Roadblock
+## SavedVariablesPerCharacter: KindnessDB
+
+core.lua
