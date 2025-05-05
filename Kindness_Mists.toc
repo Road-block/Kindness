@@ -1,4 +1,4 @@
-## Interface: 11507
+## Interface: 50500
 ## Title: Kindness
 ## Notes: Return kindness of strangers when they buff, heal, cure or resurrect you
 ## IconTexture: Interface\ICONS\INV_ThanksGiving_SweetPotato
